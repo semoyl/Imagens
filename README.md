@@ -1,6 +1,6 @@
 # Projeto de Troca de Imagens
 
-![](./screenshot/Captura%20de%20Tela%202024-09-06%20%C3%A0s%2014.15.40.png)
+![](./screenshot/image.png)
 
 ---
 
